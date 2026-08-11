@@ -308,8 +308,6 @@ Post-install hardening steps (system update, SSH lockdown, UFW, non-root user) w
 
 **Outcome:** ✅ Successful install
 
-> ⚠️ The command in step 5c below includes a live-looking Tailscale auth key from the original log. **Replace it with a placeholder (or your own key) before publishing** — do not commit real auth keys to a public repo.
-
 ### Ubuntu VM setup
 1. In Proxmox, download the `ubuntu-standard-26.04` CT template (Datacenter → localhost → local → CT Templates → Templates).
 2. Create the VM: name it, select the Ubuntu ISO, and leave System/Disks/CPU/Memory/Network at defaults. Review the confirmation screen for errors.
