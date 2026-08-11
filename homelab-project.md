@@ -2,8 +2,6 @@
 
 A record of self-hosted infrastructure, virtualization, and cybersecurity projects built across a home lab environment (Proxmox nodes, Ubuntu Server, and assorted repurposed hardware). Each entry documents the goal, outcome, and exact steps taken so the project can be reproduced.
 
-> ⚠️ **Before publishing:** Project #8 below contains what appears to be a live Tailscale auth key in the example command. Redact or rotate that key before pushing this document publicly.
-
 ## Table of Contents
 
 **Core Infrastructure Projects**
