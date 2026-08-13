@@ -2,6 +2,11 @@
 
 A record of self-hosted infrastructure, virtualization, and cybersecurity projects built across a home lab environment (Proxmox nodes, Ubuntu Server, and assorted repurposed hardware). Each entry documents the goal, outcome, and exact steps taken so the project can be reproduced.
 
+**Network Topology**
+![Network-Topology](https://github.com/wumwumwum/Home-Lab/blob/main/images/Gemini_Generated_Image_vvd55zvvd55zvvd5.png)
+
+
+
 ## Table of Contents
 
 **Core Infrastructure Projects**
@@ -25,7 +30,13 @@ A record of self-hosted infrastructure, virtualization, and cybersecurity projec
 - [18. ITSM-NG (Asset / Budget / Ticketing)](https://github.com/wumwumwum/Home-Lab/blob/main/homelab-project.md/#18-itsm-ng-asset--budget--ticketing)
 - [19. SnipeIT (Asset / Budget / Ticketing)](https://github.com/wumwumwum/Home-Lab/blob/main/homelab-project.md/#19-snipeit-asset--budget--ticketing)
 
+
 **Reference**
 - [Quick Reference & Troubleshooting Notes](https://github.com/wumwumwum/Home-Lab/blob/main/homelab-project.md/#quick-reference--troubleshooting-notes)
 - [Links of Note](https://github.com/wumwumwum/Home-Lab/blob/main/homelab-project.md/#links-of-note)
 - [Skills Demonstrated](https://github.com/wumwumwum/Home-Lab/blob/main/homelab-project.md/#skills-demonstrated)
+
+
+**Change Log**
+
+Updated 20260813: Network topology captured of current build. Added to repo.
